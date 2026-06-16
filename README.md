@@ -10,4 +10,4 @@ https://scratch.mit.edu/projects/1332487017
 
 
 Quem construiu isso?
-*+ Janaina Martins 
+ Janaina Martins 
