@@ -17,8 +17,8 @@ A minha intenção é realizar esse projeto no Scratch, pois é uma ferramenta d
 Nesse arquivo do GitHub, você vai encontrar o link do meu Project Canvas, o rascunho inicial do projeto no Scratch e o link do projeto completo no Canva:
 
 * [Link do Canva](https://canva.link/62242qtzlhivmnr)
-* [Rascunho do projeto no Scratch](https://scratch.mit.edu)
-* [Projeto Scratch final](https://scratch.mit.edu)
+* [Rascunho do projeto no Scratch](https://scratch.mit.edu/projects/1332487017/)
+* [Projeto Scratch final](https://scratch.mit.edu/projects/1274803345/)
 
 ## Quem construiu isso?
 
